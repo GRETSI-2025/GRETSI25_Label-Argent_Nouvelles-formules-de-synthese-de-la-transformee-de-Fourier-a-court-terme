@@ -1,5 +1,15 @@
 # Nouvelles formules de synthese de la transformee de Fourier a court terme avec une fenetre d'analyse modifiee.
 
+<hr>
+
+**_Dépôt labelisé dans le cadre du [Label Reproductible du GRESTI'25](https://gretsi.fr/colloque2025/recherche-reproductible/)_**
+
+| Label décerné | Auteur | Rapporteur | Éléments reproduits | Liens |
+|:-------------:|:------:|:----------:|:-------------------:|:------|
+| ![](label_argent.png) | Dominique FOURER<br>[@dfourer](https://github.com/dfourer) | Jianhua WANG<br>[@jianhua-WANG-ENS](https://github.com/jianhua-WANG-ENS) |  Figures 1, (a)-(h) | 📌&nbsp;[Dépôt&nbsp;original](https://github.com/dfourer/STFTmarginals)<br>⚙️&nbsp;[Issue](https://github.com/GRETSI-2025/Label-Reproductible/issues/33)<br>📝&nbsp;[Rapport](https://github.com/akrah/test/tree/main/rapports/Rapport_issue_33) |
+
+<hr>
+
  Depot officiel de l'article ci-dessous
 
  [D. Fourer, F. Auger, E Chassandre-Mottin, P. Flandrin, Nouvelles formules de synthese
