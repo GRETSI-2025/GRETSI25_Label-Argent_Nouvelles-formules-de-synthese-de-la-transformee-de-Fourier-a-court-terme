@@ -6,7 +6,7 @@
 
 | Label décerné | Auteur | Rapporteur | Éléments reproduits | Liens |
 |:-------------:|:------:|:----------:|:-------------------:|:------|
-| ![](label_argent.png) | Dominique FOURER<br>[@dfourer](https://github.com/dfourer) | Jianhua WANG<br>[@jianhua-WANG-ENS](https://github.com/jianhua-WANG-ENS) |  Figures 1, (a)-(h) | 📌&nbsp;[Dépôt&nbsp;original](https://github.com/dfourer/STFTmarginals)<br>⚙️&nbsp;[Issue](https://github.com/GRETSI-2025/Label-Reproductible/issues/33)<br>📝&nbsp;[Rapport](https://github.com/akrah/test/tree/main/rapports/Rapport_issue_33) |
+| ![](label_argent.png) | Dominique FOURER<br>[@dfourer](https://github.com/dfourer) | Jianhua WANG<br>[@jianhua-WANG-ENS](https://github.com/jianhua-WANG-ENS) |  Figures 1, (a)-(h) | 📌&nbsp;[Dépôt&nbsp;original](https://github.com/dfourer/STFTmarginals)<br>⚙️&nbsp;[Issue](https://github.com/GRETSI-2025/Label-Reproductible/issues/33)<br>📝&nbsp;[Rapport](https://github.com/GRETSI-2025/Label-Reproductible/tree/main/rapports/Rapport_issue_33) |
 
 <hr>
 
